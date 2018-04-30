@@ -11,7 +11,7 @@
   "engines": {
     "node": "6.11.1"
   },
-  "author": "",
+  "author": "Chaitu",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
